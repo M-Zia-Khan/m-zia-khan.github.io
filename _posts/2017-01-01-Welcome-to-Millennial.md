@@ -8,7 +8,7 @@ image:
   feature: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. Below you can find everything you need to get started.
+Zia presented at the SoCal Codecamp conference 2016 conference held at University of Southern California (USC). The topic of the talk was Data Science Learning and how to get started on this journey.  
 
 ### Getting Started
 
