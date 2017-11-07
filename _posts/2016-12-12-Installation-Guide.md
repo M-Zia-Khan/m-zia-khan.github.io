@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft Azure conference"
-author: "Paul Le"
+author: "Zia Khan"
 categories: documentation
 tags: [documentation,sample]
 image:
