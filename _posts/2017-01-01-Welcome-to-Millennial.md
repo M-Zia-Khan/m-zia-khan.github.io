@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "SoCal Codecamp conference 2016"
+author: "Zia Khan"
 categories: documentation
 tags: [documentation,sample]
 image:
