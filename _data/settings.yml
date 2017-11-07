@@ -18,7 +18,7 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'twitter', link: 'https://twitter.com/DataAdvocate'}
 - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:akram.zia@gmail.com'}
