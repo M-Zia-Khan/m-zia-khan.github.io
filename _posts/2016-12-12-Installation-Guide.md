@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installation Guide"
+title: "Microsoft Azure conference"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
