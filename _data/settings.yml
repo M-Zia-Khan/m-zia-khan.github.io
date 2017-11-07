@@ -1,4 +1,4 @@
-title:  "Millennial"
+title:  "Zia Khan"
 tagline: "a Jekyll theme"
 description:
 
@@ -12,8 +12,8 @@ disqus:
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'Blog', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Projects', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
